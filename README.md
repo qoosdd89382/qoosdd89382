@@ -1,1 +1,2 @@
-profile & portfolio
+- My Blog: [Learning With Cherry🍒](https://cherrychaoyueh.vercel.app/)
+- My HackMD page: [@czyue](https://hackmd.io/@czyue)
