@@ -1,5 +1,11 @@
 # Hi, it's Cherrry here.
 
+- ☕ Backend developer specializing in Java & Spring 
+- ☁️ Interested in cloud and containerization
+- 🔐 Ex-R&D member for an identity authentication SaaS product
+- 🏦 Experienced in fintech apps focused on performance and scalability  
+- 🎨 Currently learning 3D modeling for creative and technical exploration
+
 | 🍒 | Page |
 | --- | --- |
 | My Blog | [Learning With Cherry🍒](https://cherrychaoyueh.vercel.app/) |
