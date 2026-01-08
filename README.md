@@ -1,6 +1,6 @@
 # Hi, it's Cherrry here.
 
-- ☕ Backend developer specializing in Java & Spring 
+- ☕ Backend developer in Java & Spring for about 4 years
 - ☁️ Interested in cloud and containerization
 - 🔐 Ex-R&D member for an identity authentication SaaS product
 - 🏦 Experienced in fintech apps focused on performance and scalability  
